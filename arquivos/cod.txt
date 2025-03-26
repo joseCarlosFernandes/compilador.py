@@ -1,0 +1,8 @@
+INICIO
+	idade = 0
+	nome = a
+	nome = leia("Qual seu nome? ")
+	idade = leia(Qual sua idade? )
+	escreva(nome)
+	escreva(idade)
+FIM
